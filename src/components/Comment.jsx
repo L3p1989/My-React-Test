@@ -4,6 +4,7 @@ import TestInput from './TestInput';
 
 const Comment = (props) => {
     return (
+        <>
         <div className="Comment">
             <UserInfo user={props.author} />
             <div className="Comment-text">
@@ -12,8 +13,9 @@ const Comment = (props) => {
             <div className="Comment-Date">
                 {/* {formatDate(props.date)} */}
             </div>
-            <TestInput />
         </div>
+        <TestInput />
+        </>
     );
 }
 
