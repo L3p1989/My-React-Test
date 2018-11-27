@@ -8,7 +8,7 @@ import Comment from './components/Comment';
 ReactDOM.render(
     <Comment
         author={{name: 'Jackson', avatarUrl: 'https://covalence.io/static/img/team/Jackson.jpg'}}
-        text="Hi, thanks for listening to me say COMPONENT so. many. times."
+        text="Hi, thanks for listening to me say COMPONENT so. many. times!"
     />, 
     document.getElementById('root')
 );
