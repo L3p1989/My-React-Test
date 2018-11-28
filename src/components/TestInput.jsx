@@ -5,7 +5,7 @@ class TestInput extends Component {
         super(props);
 
         this.state = {
-            name: 'Jackson'
+            name: 'Patrick'
         };
     }
 
