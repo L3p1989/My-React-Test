@@ -10,6 +10,6 @@ const UserInfo = (props) => {
             </div>
         </div>
     );
-}
+};
 
 export default UserInfo;

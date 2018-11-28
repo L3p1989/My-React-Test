@@ -17,6 +17,6 @@ const Comment = (props) => {
         <TestInput />
         </>
     );
-}
+};
 
 export default Comment;

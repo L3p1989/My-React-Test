@@ -17,7 +17,7 @@ class TestInput extends Component {
                 onChange={(e) => {this.setState({name: e.target.value})}} />
             </div>
         );
-    }
-}
+    };
+};
 
 export default TestInput;
