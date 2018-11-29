@@ -1,3 +1,8 @@
+#root {
+  display: block;
+  text-align: center
+}
+
 .App {
   text-align: center;
 }
@@ -32,5 +37,5 @@
 }
 
 .Avatar {
-  height: 300px
+  height: 20em
 }
