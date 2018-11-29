@@ -1,6 +1,5 @@
 import React from 'react';
 import UserInfo from './UserInfo';
-import TestInput from './TestInput';
 
 const Comment = (props) => {
     return (
@@ -14,7 +13,6 @@ const Comment = (props) => {
                 {/* {formatDate(props.date)} */}
             </div>
         </div>
-        <TestInput />
         </>
     );
 };
