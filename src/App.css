@@ -40,3 +40,7 @@
 .Avatar {
   height: 20em
 }
+
+ul {
+  list-style: inside;
+}
